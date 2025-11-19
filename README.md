@@ -2,7 +2,7 @@
 
 **`A  Passionate Full-Stack Developer `**
 
-I'm an indian full-stack developer and content video editor. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
+I'm an Indian full-stack developer and content video editor. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
 
 ## 🧰 &nbsp;My toolbox
 

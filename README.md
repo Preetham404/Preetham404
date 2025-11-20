@@ -1,13 +1,29 @@
-# 🏄‍♂️ Preetham Shetty
+<h1 align="center">👋 Hey there, I'm Preetham Shetty</h1>
 
-**`A  Passionate Full-Stack Developer `**
-
-I'm an Indian full-stack developer and content video editor. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
-                                                                      ![gif](https://github.com/user-attachments/assets/935bdf45-5de0-4624-acfb-681f4a20035d)
+  <h3><code>A Passionate Full-Stack Developer</code></h3>
+</p>
 
 
-## 🧰 &nbsp;My toolbox
 
-<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="50" height="50"/> &nbsp;<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/ExpressJS.png" alt="ExpressJS"/> &nbsp; <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="ReactJS" width="50" height="50" style="margin:0 auto; display:block;"/> &nbsp;<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/NextJS.png" alt="NextJS"/> &nbsp; <img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/TailwindCSS.png" alt="TailwindCSS"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"/> &nbsp;<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="HTML5" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+<p align="center">
+  I am an enthusiastic learner and a dedicated developer who enjoys exploring different areas of technology. I love understanding how things work, building creative solutions, and improving my skills every day. Whether it is coding, designing, editing videos, or experimenting with new tools, I put my full effort into learning and creating something meaningful. I enjoy solving problems, working on unique ideas, and continuously challenging myself to grow. I believe in consistency, clear thinking, and learning from both success and failure. My goal is to become a strong all-round professional who can adapt to new challenges and contribute positively to any work I take up. Technology inspires me, creativity motivates me, and growth keeps me moving forward.
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/935bdf45-5de0-4624-acfb-681f4a20035d" />
+</p>
+
+
+## 🧰 &nbsp;My Toolbox
+
+<p align="center">
+  <img width="750px" src="https://skillicons.dev/icons?i=c,cpp,py,github,arduino,html,css,js,bootstrap,tailwind,react,nodejs,express,mysql,mongodb,linux,docker&theme=dark&perline=12" alt="skills" />
+</p>
 
 &nbsp;
+
+<img src="https://github-readme-streak-stats-kv.vercel.app?user=Preetham404&hide_border=true&background=042222&ring=00df82&fire=00df82&currStreakNum=f1f1f1&currStreakLabel=fb0&sideNums=00df82&sideLabels=a9cbc3&dates=fb0" width="48%" alt="Preetham404's github-readme-streak-stats"/>
+
+<img src="https://github-readme-activity-graph-kv.vercel.app/graph?username=Preetham404&bg_color=042222&title_color=00df82&color=f6d647&line=00df82&point=fb0&area_color=ae81ff&radius=16&hide_border=true&hide_title=false&area=true" width="100%" alt="activity graph">
+

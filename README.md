@@ -18,7 +18,7 @@
 ## 🧰 &nbsp;My Toolbox
 
 <p align="center">
-  <img width="750px" src="https://skillicons.dev/icons?i=c,cpp,py,github,arduino,html,css,js,bootstrap,tailwind,react,nodejs,express,mysql,mongodb,linux,docker&theme=dark&perline=12" alt="skills" />
+  <img width="750px" src="https://skillicons.dev/icons?i=java,c,cpp,py,github,arduino,html,css,js,bootstrap,tailwind,react,nodejs,express,mysql,mongodb,linux,docker&theme=dark&perline=12" alt="skills" />
 </p>
 
 &nbsp;

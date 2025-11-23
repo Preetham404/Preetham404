@@ -20,7 +20,6 @@
 <p align="center">
   <img width="750px" src="https://skillicons.dev/icons?i=java,c,cpp,py,github,arduino,html,css,js,bootstrap,tailwind,react,nodejs,express,mysql,mongodb,linux,docker&theme=dark&perline=12" alt="skills" />
 </p>
-
 &nbsp;
 
 <img src="https://github-readme-streak-stats-kv.vercel.app?user=Preetham404&hide_border=true&background=042222&ring=00df82&fire=00df82&currStreakNum=f1f1f1&currStreakLabel=fb0&sideNums=00df82&sideLabels=a9cbc3&dates=fb0" width="48%" alt="Preetham404's github-readme-streak-stats"/>

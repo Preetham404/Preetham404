@@ -3,7 +3,7 @@
 <h3><code>A Passionate Full-Stack Developer</code></h3>
 
 <p align="center">
-  I am  an enthusiastic learner and a dedicated developer  who enjoys exploring different areas of  technology.I love understanding how things work, building creative solutions, and improving my skills every day. Whether it is coding, designing, editing videos, or experimenting with new tools, I put my full effort into  learning and creating something meaningful.I enjoy solving problems, working on unique ideas, and continuously challenging myself to grow .I believe  in consistency , clear thinking, and learning from both success and failure.  My goal is to become a strong all- round professional who can adapt  to new challenges and contribute positively to any work I take up .Technology inspires me,  creativity motivates me, and growth keeps me moving forward.  
+  I am  an enthusiastic learner and a dedicated developer who enjoys exploring different areas of  technology.I love understanding how things work, building creative solutions, and improving my skills every day. Whether it is coding, designing, editing videos, or experimenting with new tools, I put my full effort into  learning and creating something meaningful.I enjoy solving problems, working on unique ideas, and continuously challenging myself to grow .I believe  in consistency , clear thinking, and learning from both success and failure.  My goal is to become a strong all- round professional who can adapt  to new challenges and contribute positively to any work I take up .Technology inspires me,  creativity motivates me, and growth keeps me moving forward.  
 </p>
 
 ---
